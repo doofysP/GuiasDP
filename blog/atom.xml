@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://doofysp.github.io/GuiasDP/blog</id>
+    <title>Guías | Doofy's Projects Blog</title>
+    <updated>2023-01-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://doofysp.github.io/GuiasDP/blog"/>
+    <subtitle>Guías | Doofy's Projects Blog</subtitle>
+    <icon>https://doofysp.github.io/GuiasDP/img/dpicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Diso Blogero]]></title>
+        <id>disoaurus</id>
+        <link href="https://doofysp.github.io/GuiasDP/blog/disoaurus"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog epico]]></summary>
+        <content type="html"><![CDATA[<p>Blog epico</p>]]></content>
+        <author>
+            <name>Diso</name>
+            <uri>https://github.com/DisorderDS</uri>
+        </author>
+        <category label="Diso" term="Diso"/>
+        <category label="d" term="d"/>
+        <category label="i" term="i"/>
+        <category label="s" term="s"/>
+        <category label="o" term="o"/>
+    </entry>
+</feed>
