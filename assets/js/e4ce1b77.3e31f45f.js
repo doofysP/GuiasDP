@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkguiasdp=self.webpackChunkguiasdp||[]).push([[377],{2422:i=>{i.exports=JSON.parse('{"title":"Inicio","slug":"/category/inicio","permalink":"/GuiasDP/docs/category/inicio","navigation":{"previous":{"title":"Introducci\xf3n","permalink":"/GuiasDP/docs/intro"},"next":{"title":"Pagina vacia","permalink":"/GuiasDP/docs/Inicio/paginaejemplo"}}}')}}]);
