@@ -46,11 +46,6 @@ const config = {
         },
         items: [
           {
-            to: '/GuiasDP/FAQ',
-            position: 'left',
-            label: 'Información del proyecto',
-          },
-          {
             type: 'doc',
             docId: 'intro',
             position: 'left',
