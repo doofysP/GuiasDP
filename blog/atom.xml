@@ -9,7 +9,7 @@
     <icon>https://doofysp.github.io/GuiasDP/img/dpicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Diso Blogero]]></title>
-        <id>disoaurus</id>
+        <id>https://doofysp.github.io/GuiasDP/blog/disoaurus</id>
         <link href="https://doofysp.github.io/GuiasDP/blog/disoaurus"/>
         <updated>2023-01-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog epico]]></summary>
