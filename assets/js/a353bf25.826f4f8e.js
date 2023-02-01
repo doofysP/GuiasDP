@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguiasdp=self.webpackChunkguiasdp||[]).push([[130],{2597:e=>{e.exports=JSON.parse('{"title":"Errores","slug":"/category/errores","permalink":"/docs/category/errores","navigation":{"previous":{"title":"Pagina vacia","permalink":"/docs/Optimizacion/paginaejemplo"},"next":{"title":"Pagina vacia","permalink":"/docs/Errores/paginaejemplo"}}}')}}]);
