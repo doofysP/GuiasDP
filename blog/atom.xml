@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://doofysp.github.io/blog</id>
+    <id>https://docs.dprojects.org/blog</id>
     <title>Guías | Doofy's Projects Blog</title>
     <updated>2023-01-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://doofysp.github.io/blog"/>
+    <link rel="alternate" href="https://docs.dprojects.org/blog"/>
     <subtitle>Guías | Doofy's Projects Blog</subtitle>
-    <icon>https://doofysp.github.io/img/dpicon.ico</icon>
+    <icon>https://docs.dprojects.org/img/dpicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Diso Blogero]]></title>
-        <id>https://doofysp.github.io/blog/disoaurus</id>
-        <link href="https://doofysp.github.io/blog/disoaurus"/>
+        <id>https://docs.dprojects.org/blog/disoaurus</id>
+        <link href="https://docs.dprojects.org/blog/disoaurus"/>
         <updated>2023-01-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog epico]]></summary>
         <content type="html"><![CDATA[<p>Blog epico</p>]]></content>
