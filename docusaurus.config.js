@@ -9,7 +9,7 @@ const config = {
   title: `Guías | Doofy's Projects`,
   tagline: 'Conjunto de guias y articulos hechos por y para la comunidad.',
   url: 'https://doofysp.github.io',
-  baseUrl: '/GuiasDP/',
+  baseUrl: '/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/doofys/GuiasDP',
+                href: 'https://github.com/doofysp/GuiasDP',
               },
             ],
           },
