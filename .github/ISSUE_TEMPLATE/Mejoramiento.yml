@@ -1,7 +1,7 @@
 name: Mejoramiento
 description: Colabora con el mejoramiento general o especifico de la página y su entorno.
 title: "[Guía]: "
-labels: ["Guías"]
+labels: ["Mejoramiento"]
 body:
 
   - type: dropdown
