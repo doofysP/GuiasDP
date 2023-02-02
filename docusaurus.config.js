@@ -51,12 +51,22 @@ const config = {
             position: 'left',
             label: 'Guías',
           },
-          {to: '/blog', label: 'Artículos', position: 'left'},
-          {
-            href: 'https://github.com/doofysp/GuiasDP',
-            label: 'Github',
-            position: 'right',
+
+          { to: '/blog',
+            label: 'Artículos',
+            position: 'left'
           },
+
+					{
+						href: 'https://github.com/doofysp/GuiasDP',
+						className: 'navbar-item-github',
+						position: 'right',
+					},
+          {
+						href: 'https://discord.gg/doofy-s-projecs-704042607600205956',
+						className: 'navbar-item-discord',
+						position: 'right',
+					},
         ],
       },
       footer: {
@@ -113,19 +123,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-};
-
-module.exports = {
-  themes: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
-        hashed: true,
-        language: ["es"],
-      }),
-    ],
-  ],
 };
 
 module.exports = config;
