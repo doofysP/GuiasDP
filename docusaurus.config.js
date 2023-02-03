@@ -37,8 +37,23 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      colorMode: {
+		({
+			// We don't set the description and title here to assure that the right og:tags will be delivered per page.
+			metadata: [
+				{
+					name: 'og:image',
+					content: 'https://cdn.discordapp.com/attachments/939014431403307061/1016818205555163257/DP.png',
+				},
+				{
+					name: 'theme-color',
+					content: '#aee4b7',
+				},
+				{
+					name: 'twitter:card',
+					content: 'summary',
+				},
+			],
+			colorMode: {
 				defaultMode: 'dark'
 			},
       navbar: {
