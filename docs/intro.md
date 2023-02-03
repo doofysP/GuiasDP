@@ -28,3 +28,4 @@ Estas categorías y su contenido puede verse sujeto a cambios.
 ## ¿Cómo contribuir a este proyecto?
 En el repositorio de [GitHub](https://github.com/doofysp/GuiasDP/) es posible contribuir al mejoramiento del proyecto, tanto con guías como en cuestion de desarrollo, de la misma manera, facilitamos que en el servidor de **Discord** que puedas comunicarte con los administradores y puedas hablar con ellos para contribuir.
 
+![Guia Github](https://raw.githubusercontent.com/doofysP/GuiasDP/master/static/img/guia-github.png)
