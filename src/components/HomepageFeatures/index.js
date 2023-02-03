@@ -28,8 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/A3.svg').default, //<a href="LINKS">palabra</a>
     description: (
       <>
-        Tu aporte también vale; contribuye a este proyecto enviándonos tus <a href="https://github.com/doofysP/GuiasDP/issues/new?assignees=&labels=Gu%C3%ADas&template=guias.yml&title=%5BGuia%5D%3A+Titulo+aqu%C3%AD">guías</a>, 
-        aportando al <a href="https://github.com/doofysP/GuiasDP/issues/new?assignees=&labels=Mejoramiento&template=mejoramiento.yml&title=%5BMejoramiento%5D%3A+Titulo+aqu%C3%AD">mejoramiento</a> o al <a href="https://github.com/doofysP/GuiasDP/issues/new?assignees=&labels=Desarrollo&template=desarrollo.yml&title=%5BDesarrollo%5D%3A+Titulo+aqu%C3%AD">desarrollo</a>.
+        Tu aporte también vale; contribuye a este proyecto enviándonos tus <a href="https://github.com/doofysP/GuiasDP/issues/new?assignees=&labels=Gu%C3%ADas&template=Guias.yml&title=%5BGu%C3%ADa%5D%3A+">guías</a> o tus ideas frente al <a href="https://github.com/doofysP/GuiasDP/issues/new?assignees=&labels=Mejoramiento&template=Mejoramiento.yml&title=%5BGu%C3%ADa%5D%3A+">mejoramiento</a>.
         <br></br>
         Recuerda tener una cuenta de <a href="https://github.com/">GitHub</a> para hacer tus aportes o comunicarte via Discord con los administradores del servidor
       </>
