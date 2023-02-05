@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: `Guías | Doofy's Projects`,
+  title: `Guías - Doofy's Projects`,
   tagline: 'Conjunto de guias y articulos hechos por y para la comunidad.',
   url: 'https://docs.dprojects.org/',
   baseUrl: '/',

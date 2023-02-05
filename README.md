@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Guías | Doofy's Projects</h1>
+  <h1>Guías - Doofy's Projects</h1>
 
 
 Este proyecto, independiente del proyecto en general y nacido directamente del servidor de Discord, busca la manera de almacenar las guías proporcionadas por los miembros del servidor para la resolución de problemas, información y recursos varios.
