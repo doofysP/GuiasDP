@@ -7,7 +7,7 @@ sidebar_position: 1
     <img width="650" src="https://cdn.discordapp.com/attachments/939014431403307061/1071880009163210932/BannerMD.png" alt="DProjects"></img>
 </p>
 
-## Qué es esto?
+## ¿Qué es esto?
 
 Un conjunto de guías reunidas dentro de una documentación. Este proyecto nace dentro del entorno del servidor [Discord](https://discord.gg/doofy-s-projects-704042607600205956) y la necesidad de mejorar el sistema de ayuda, el cual se manejaba hasta entonces, por ello y por el mejoramiento del mismo, se hizo una gran parte de cambios, tanto internos en sus pautas, en los sistemas dentro del servidor y fuera de este llegando a la creación de esta documentación que aloja todo lo relacionado con guías informativas y para la solución de problemas.
 
