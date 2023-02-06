@@ -34,7 +34,6 @@ const config = {
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
@@ -56,6 +55,13 @@ const config = {
 			colorMode: {
 				defaultMode: 'dark'
 			},
+      announcementBar: {
+        id: 'barra',
+        backgroundColor: '#aee4b7',
+        textColor: '#000',
+        isCloseable: true,
+        content: '⚒️ Sitio en construcción ⚒️',
+      },
       navbar: {
         title: `Doofy's Projects`,
         logo: {
