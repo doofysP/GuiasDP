@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Introducción
 description: Mensaje de introducción general al conjunto completo de guías.
-slug: /docs/
+slug: /docs
 ---
 # Introducción
 
