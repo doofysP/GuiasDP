@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguiasdp=self.webpackChunkguiasdp||[]).push([[222],{2057:s=>{s.exports=JSON.parse('{"permalink":"/GuiasDP/blog/tags/diso","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
