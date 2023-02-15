@@ -9,7 +9,7 @@ const config = {
   title: `Guías - Doofy's Projects`,
   tagline: 'Conjunto de guias y articulos hechos por y para la comunidad.',
   url: 'https://docs.dprojects.org/',
-  baseUrl: '/',
+  baseUrl: '/GuiasDP/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
