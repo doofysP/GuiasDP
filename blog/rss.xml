@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Guías - Doofy's Projects Blog</title>
-        <link>https://doofysp.github.io/GuiasDP/blog</link>
+        <link>https://docs.dprojects.org/blog</link>
         <description>Guías - Doofy's Projects Blog</description>
         <lastBuildDate>Wed, 11 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>es</language>
         <item>
             <title><![CDATA[Diso Blogero]]></title>
-            <link>https://doofysp.github.io/GuiasDP/blog/disoaurus</link>
-            <guid>https://doofysp.github.io/GuiasDP/blog/disoaurus</guid>
+            <link>https://docs.dprojects.org/blog/disoaurus</link>
+            <guid>https://docs.dprojects.org/blog/disoaurus</guid>
             <pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Diso]]></description>
             <content:encoded><![CDATA[<p>Diso</p>]]></content:encoded>
