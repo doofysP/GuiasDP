@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: `Guías - Doofy's Projects`,
   tagline: 'Conjunto de guias y articulos hechos por y para la comunidad.',
-  url: 'https://docs.dprojects.org',
-  baseUrl: '/',
+  url: 'https://doofysp.github.io',
+  baseUrl: '/GuiasDP/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
